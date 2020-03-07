@@ -9,8 +9,8 @@ Thumbs.db
 *_i.c
 *_p.c
 *.ncb
-*.suo.atsuo
-*.cproj
+*.suo
+*.atsuo
 *.sln.docstates
 *.tlb
 *.tlh
@@ -22,7 +22,6 @@ Thumbs.db
 [Dd]ebug*/
 *.lib
 *.sbr
-.vs/
 obj/
 [Rr]elease*/
 _ReSharper*/
