@@ -28,6 +28,7 @@ FUSES = {
 	.low = (LFUSE_DEFAULT & FUSE_SUT1 & FUSE_CKSEL0),
 };
 
+
 LOCKBITS = (LB_MODE_3);	// further programming and verification disabled
 
 int main(void) {
