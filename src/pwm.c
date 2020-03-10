@@ -15,7 +15,7 @@
 
 #define _PWM_DUTY_CYCLE_LIMIT 73	// duty cycle limiting value
 
-uint8_t ledblink = 30;	// LED blink counter
+uint8_t ledblink = 32;	// LED blink counter
 
 void setDutyCycle(uint8_t module,uint8_t duty) {
 	/* Set PWM duty cycle */
@@ -85,7 +85,7 @@ ISR(TIMER1_OVF1_vect) {
 	if(ledblink == 0) {
 		/* On blink counter expire */
 		PORTB &= ~_BV(LED);	// LED on
-		ledblink = 30;	// reset blink counter
+		ledblink = 32;	// reset blink counter
 	}
 }
 
