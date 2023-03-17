@@ -1,7 +1,6 @@
 ## **Universal Searchlights SLASS RCU Firmware**
 ## **searchlight-1.0.1-slass**
 **Author: Jon Wilder**<br />
-**Project Manager: Kevin Johnson - APR Aviation**<br />
 **Project Created on February 24th, 2020**<br />
 
 ---
