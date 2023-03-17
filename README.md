@@ -19,7 +19,7 @@ code itself.
 
 ## **Hardware Information**
 
-**Processor Type:** Microchip Atmel ATtiny261<br />
+**Processor Type:** Microchip Atmel ATtiny26<br />
 
 **PWM Outputs -**<br />
 **Pin Assignment (DOWN):** PB1/OC1A<br />
